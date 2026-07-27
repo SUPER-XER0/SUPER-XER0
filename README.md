@@ -7,6 +7,9 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u0u4aguznmg71vt7b17xnp0vc&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&profanity=false&bar_color_cover=true&bar_color=53b14f">
   </a>
 <p>  <img src="https://64.media.tumblr.com/102881b9383ebe55273071ff17662bc6/9a0025f9c421ee19-7c/s400x600/a13a98732f26a0a1fea291979e24d3ecb571b1f1.pnj" alt="jpg" width="400"></p>
+  
+![Visitors](https://api.visitorbadge.io/api/visitors?path=SUPER-XER0&label=***&countColor=%23263759)
+  
   <p>  <img src="https://64.media.tumblr.com/33a66541933e4193eed51c8c4690d84b/f4cf3be3a03a39af-25/s250x400/da1be549073070d109e97e456a43e50cd2d7c6ff.gifv" alt="jpg" width="200"></p>
 
 . . .  ***привет!!!!!***   <img src="https://64.media.tumblr.com/9c14dec7b9dad586ec5a0f70748d3acf/2c233c0d3ddf0421-87/s75x75_c1/fa2d076ee8dfdb14d86c145df051a218527422b5.gifv" alt="jpg" width="30">  
