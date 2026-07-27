@@ -29,9 +29,8 @@ c+h тоже приветствуется, **особенно если скин�
 *dni, как таковое, у меня отсутствует,  
 но при любом упоминаний прям аморальщины мне будет некомфортно. черный юмор приветствуется, но, пожалуйста, не перегибайте*
 
-<img src="https://64.media.tumblr.com/156e449937cb0058afb33a57b64af00f/e636630bc62b557b-f7/s75x75_c1/e69c2d7a7aa98ada419a8c343af7dce6e05b7fdb.gifv" alt="gif" width="50">
-
-<br></br>
+<img src="https://64.media.tumblr.com/c3f21eb150c13a87e7559c30bb8a8854/e54de9453552722e-1d/s1280x1920/aae0d5587fc59c2cc7747abfea9a33b0a2159723.pnj" alt="gif" width="200">
+<br>
 
 ***
 *я не фанат всяких фд, особо в каких либо не состою, так что просто быстренько по интересам*
@@ -78,3 +77,9 @@ $${\color{lightblue}\text{ой. на этом, пожалуй, все!!!}}$$
 $${\color{lightblue}\text{бай бай}}$$
 
 <br clear="both">
+
+<br></br>
+<br></br>
+
+<img align="center" width="500" src="https://64.media.tumblr.com/4f23dbcc28ca7f1118728bb96dcece61/tumblr_pk1faeve0Q1ws32yeo5_540.pnj" alt="аыа"> <br>
+<img align="center" width="500" src="https://64.media.tumblr.com/d494ecbb9f76216dbd18352908bd6ff1/tumblr_pk1faeve0Q1ws32yeo6_540.gifv" alt="аыа">
