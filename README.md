@@ -82,15 +82,5 @@ saya no uta; subahibi; postal; l4d; nekopara; ngo; mgs; totono; mcgee's alice; o
 
 <div align="center">
 
-<img align="left" width="400" src="https://64.media.tumblr.com/94d06a002bc933ee38a660a37b8bc183/ffd3e845a25f70bd-4b/s640x960/ef088fcc15e8011370fd9d2e195f58167ee5c130.jpg" alt="аыа">
-
-$${\color{lightblue}\text{ой. на этом, пожалуй, все!!!}}$$
-$${\color{lightblue}\text{бай бай}}$$
-
-<br clear="both">
-
-<br></br>
-<br></br>
-
 <img align="center" width="500" src="https://64.media.tumblr.com/4f23dbcc28ca7f1118728bb96dcece61/tumblr_pk1faeve0Q1ws32yeo5_540.pnj" alt="аыа"> <br>
 <img align="center" width="500" src="https://64.media.tumblr.com/d494ecbb9f76216dbd18352908bd6ff1/tumblr_pk1faeve0Q1ws32yeo6_540.gifv" alt="аыа">
