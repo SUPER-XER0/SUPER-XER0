@@ -2,7 +2,7 @@
   
 $\color{#BEC1BC}{\textsf{and it's time}}$ 
   $\color{#486382}{\textsf{we saw a miracle}}$ </p>
-  <img src="https://i.pinimg.com/736x/fd/29/f9/fd29f9d8ad5c4663ace0528e151b77de.jpg" alt="jpg" width="300">
+  <img src="https://i.pinimg.com/736x/fd/29/f9/fd29f9d8ad5c4663ace0528e151b77de.jpg" alt="jpg" width="250">
   <br>
   
   $\color{#BEC1BC}{\textsf{come on, it's time}}$ 
