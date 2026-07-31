@@ -13,8 +13,9 @@ $\color{#BEC1BC}{\textsf{and it's time}}$
 
 ![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=shizo1997&bg_color=1B263B)
 
----
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=SUPER-XER0&label=***&countColor=%23263759)
+
+---
   
   <p>  <img src="https://64.media.tumblr.com/33a66541933e4193eed51c8c4690d84b/f4cf3be3a03a39af-25/s250x400/da1be549073070d109e97e456a43e50cd2d7c6ff.gifv" alt="jpg" width="200"></p>
 
