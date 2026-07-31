@@ -1,14 +1,16 @@
 <div align="center">
+<p> $\color{#BEC1BC}{\textsf{and it's time}}$ 
+  $\color{#486382}{\textsf{we saw a miracle}}$ </p>
   <img src="https://i.pinimg.com/736x/fd/29/f9/fd29f9d8ad5c4663ace0528e151b77de.jpg" alt="jpg" width="300">
-   <p>
-<p> $\color{#BEC1BC}{\textsf{our wrongs remain unrectified}}$ 
-  $\color{#486382}{\textsf{and our souls won't be exhumed}}$ </p>
+  <p> $\color{#BEC1BC}{\textsf{come on, it's time}}$ 
+  $\color{#486382}{\textsf{for something biblical}}$
+<br>
+<br>
+
 
 ![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=shizo1997&bg_color=1B263B)
 
-  </a>
-<p>  <img src="https://64.media.tumblr.com/102881b9383ebe55273071ff17662bc6/9a0025f9c421ee19-7c/s400x600/a13a98732f26a0a1fea291979e24d3ecb571b1f1.pnj" alt="jpg" width="400"></p>
-  
+---
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=SUPER-XER0&label=***&countColor=%23263759)
   
   <p>  <img src="https://64.media.tumblr.com/33a66541933e4193eed51c8c4690d84b/f4cf3be3a03a39af-25/s250x400/da1be549073070d109e97e456a43e50cd2d7c6ff.gifv" alt="jpg" width="200"></p>
